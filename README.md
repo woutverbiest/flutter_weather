@@ -1,4 +1,4 @@
-# Flutter_Weather
+# Flutter Weather
 
 This flutter application shows the weather of Bruges (city is hardcoded).
 
